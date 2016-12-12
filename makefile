@@ -5,7 +5,7 @@ b:
 	bundle exec middleman build --verbose
 
 p:
-	env TGT_SENSORAMA_ORG=production rake publish BRANCH_NAME=gh-pages2
+	env TGT_SENSORAMA_ORG=production rake publish BRANCH_NAME=gh-pages
 	make u
 
 u:
