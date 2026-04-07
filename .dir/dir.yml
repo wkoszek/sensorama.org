@@ -1,0 +1,9 @@
+status: keep
+tags:
+- interesting
+- infra
+notes: website
+reviewed: false
+reviewed_date: ''
+_type: repo
+_remote: https://github.com/wkoszek/sensorama.org
